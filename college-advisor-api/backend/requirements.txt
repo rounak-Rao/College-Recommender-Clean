@@ -1,0 +1,8 @@
+pandas
+numpy
+joblib
+openai
+fuzzywuzzy
+scikit-learn
+xgboost
+python-Levenshtein

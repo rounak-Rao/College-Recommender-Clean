@@ -1,0 +1,4 @@
+backend/data/*.csv
+.env
+backend/.env
+.history/
